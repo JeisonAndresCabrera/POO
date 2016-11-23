@@ -8,5 +8,5 @@ Para registrar la película se pide lo siguiente: nombre, dirección, teléfono 
 
 ***
 ### Integrantes:
-*Kevin Rivera, Santiago Herrera y...*
+*Kevin Rivera, Santiago Herrera y Jeison Cabrera.*
 ***
