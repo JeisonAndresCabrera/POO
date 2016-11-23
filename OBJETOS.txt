@@ -1,0 +1,39 @@
+El archivo: onjetos_pfpoo.gliffy , se puede abrir desde la pagina virtual
+https://www.gliffy.com/ (se importa, se edita, guardar y git push! )
+ _______________________________
+|Pelicula       	       	|
+|_______________________________|
+|+Nombre 	 	       	|
+|+Año				|
+|+Genero			|
+|+Estreno			|
+|				|
+|				|
+|_______________________________|
+|+nueva_pelicula();		|
+|+cambiar_estado_estreno();	|
+|+				|
+|				|
+|				|
+|				|
+|				|
+|_______________________________|
+
+  _______________________________
+|NOMBRE          	       	|
+|_______________________________|
+|Atributos   	 	       	|
+|				|
+|				|
+|				|
+|				|
+|				|
+|_______________________________|
+|Metodos			|
+|				|
+|				|
+|				|
+|				|
+|				|
+|				|
+|_______________________________|
